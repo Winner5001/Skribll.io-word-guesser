@@ -10,7 +10,7 @@ It uses selenium to spawn a new browser window and open skribll.io. You can play
 - keyboard
 
 ## How To
-You will need to download the apropriate driver for your browser, I used [Google Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads). Unzip the driver in the same folder as the rest of the files, open command line or powershell and run:
+You will need to download the apropriate driver for your browser, I used [Google Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads). It is important to use the same version of browser and driver. Unzip the driver in the same folder as the rest of the files, open command line or powershell and run:
 ```python scribblio.py```
 
 ## Other Stuff
